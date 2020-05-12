@@ -1,0 +1,33 @@
+C:\Users\cglr8\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.exe.config
+C:\Users\cglr8\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.exe
+C:\Users\cglr8\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.pdb
+C:\Users\cglr8\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csprojAssemblyReference.cache
+C:\Users\cglr8\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.form1.resources
+C:\Users\cglr8\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.form2.resources
+C:\Users\cglr8\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.Properties.Resources.resources
+C:\Users\cglr8\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.GenerateResource.cache
+C:\Users\cglr8\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\cglr8\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.exe
+C:\Users\cglr8\source\repos\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.pdb
+C:\Users\HP\Desktop\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.form1.resources
+C:\Users\HP\Desktop\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.form2.resources
+C:\Users\HP\Desktop\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.Properties.Resources.resources
+C:\Users\HP\Desktop\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.exe
+C:\Users\HP\Desktop\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.pdb
+C:\Users\HP\Desktop\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.exe.config
+C:\Users\HP\Desktop\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.exe
+C:\Users\HP\Desktop\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.pdb
+D:\DERS\4. Sınıf 2. Dönem\NDP\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.exe.config
+D:\DERS\4. Sınıf 2. Dönem\NDP\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.exe
+D:\DERS\4. Sınıf 2. Dönem\NDP\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\bin\Debug\OtoparkOtomasyonu.pdb
+D:\DERS\4. Sınıf 2. Dönem\NDP\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csprojAssemblyReference.cache
+D:\DERS\4. Sınıf 2. Dönem\NDP\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.form1.resources
+D:\DERS\4. Sınıf 2. Dönem\NDP\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.form2.resources
+D:\DERS\4. Sınıf 2. Dönem\NDP\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.Properties.Resources.resources
+D:\DERS\4. Sınıf 2. Dönem\NDP\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.GenerateResource.cache
+D:\DERS\4. Sınıf 2. Dönem\NDP\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.csproj.CoreCompileInputs.cache
+D:\DERS\4. Sınıf 2. Dönem\NDP\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.exe
+D:\DERS\4. Sınıf 2. Dönem\NDP\OtoparkOtomasyonu\OtoparkOtomasyonu\OtoparkOtomasyonu\obj\Debug\OtoparkOtomasyonu.pdb
